@@ -29,7 +29,7 @@ const item = mongoose.model('items', list);
 // creating first item item1
 const item1 = new item({
 
-	name : "welcome to todo list" 
+	name : "welcome to hosted todo list" 
 
 });
 
@@ -41,7 +41,7 @@ const item1 = new item({
 
 const item2 = new item({
 
-	name : "Hit +  to add item to items list  "
+	name : "Hit +  to add item to items list to this ne list  "
 
 });
 
