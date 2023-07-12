@@ -41,7 +41,7 @@ const item1 = new item({
 
 const item2 = new item({
 
-	name : "Hit +  to add item to items list to this ne list  "
+	name : "Hit +  to add item to items list to this new list hence update   "
 
 });
 
